@@ -1,0 +1,7 @@
+# Update Jekyll
+bundle exec jekyll serve
+
+# Add to github
+git add .
+git commit -m "comment on change"
+git push -u origin master
